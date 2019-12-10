@@ -42,3 +42,12 @@ import machine
 machine.freq(240000000)
 ```
 it took only 7782 ms to finish the calculation.
+
+### Timings
+
+| Frequency |  ESP8266 |   ESP32  | Raspberry Pi 1 | Raspberry Pi 4 |
+|:---------:|:--------:|:--------:|:--------------:|:--------------:|
+|    40 MHz |     -    | 44427 ms |                |                |
+|    80 MHz | 32807 ms | 23323 ms |                |                |
+|   160 MHz | 16113 ms | 11375 ms |                |                |
+|   240 MHz |     -    |  7783 ms |                |                |
