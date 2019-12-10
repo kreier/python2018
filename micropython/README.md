@@ -6,3 +6,4 @@ Instructions are well found at [micropython.org](https://micropython.org/downloa
 esptool.exe --port COM5 --chip auto flash_id
 ```
 
+For ESP32 you have to push the 'BOOT' button or connect IO0 to GND, otherwise the esptool is not connecting.
