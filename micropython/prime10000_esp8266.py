@@ -1,5 +1,5 @@
 import math
-import time
+import time   # machine.freq() is 80000000 standard
 
 last = 10000
 
