@@ -35,4 +35,10 @@ end = time.ticks_ms()
 print('\nThis took:', (end - start), 'ms.')
 ```
 
-In uPyCraft V1.0 the output is lagging behind the streaming of numbers from the esp.
+In uPyCraft V1.0 the output is lagging behind the streaming of numbers from the esp32. After changing the frequency of the esp by
+
+``` py
+import machine
+machine.freq(240000000)
+```
+it took only 7782 ms to finish the calculation.
