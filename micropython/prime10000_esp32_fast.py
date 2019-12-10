@@ -2,7 +2,7 @@ import math
 import time
 import machine
 
-machine.freq(240000000) # standard frequency is 160000000 for ESP32
+machine.freq(240000000)    # standard frequency is 160000000 for ESP32
 
 last = 10000
 
