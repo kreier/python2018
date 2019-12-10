@@ -12,7 +12,7 @@ For ESP32 you have to push the 'BOOT' button or connect IO0 to GND, otherwise th
 
 This took 11375 ms on an esp32 with 160 MHz:
 
-```
+``` py
 import math
 import time
 
