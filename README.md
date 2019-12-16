@@ -12,9 +12,17 @@ It is also possible to compare the code in python and Arduino C accross devices.
 
 ### Prime numbers to 10000
 
+Time in milliseconds.
+
 | esp8266 | esp32 | esp32 | raspberry pi 4 | Xeon X5550  |
 |---------|-------|-------|----------------|-------------|
 | 40      | 40    | 240   | 1400           | 3060        |
 | 24746   |       | 8012  | 215            | 16          |
 |         |       | 2516  |                |             |
-|         |       |       |                |             |
+
+### Web server on esp8266 and esp32
+
+Simple project, located in [micropython/webserver](micropython/webserver) and copied from [RandomNerdTutorials](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/) it takes 10 minutes to create a local webserver:
+
+![webserver](micropython/webserver/20191216.gif)
+
