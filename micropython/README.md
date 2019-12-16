@@ -8,6 +8,12 @@ esptool.exe --port COM5 --chip auto flash_id
 
 For ESP32 you have to push the 'BOOT' button or connect IO0 to GND, otherwise the esptool is not connecting.
 
+## Using uPyCraft
+
+Download (no need to install) the [latest version](https://raw.githubusercontent.com/DFRobot/uPyCraft/master/uPyCraft.exe) of [uPyCraft](http://docs.dfrobot.com/upycraft/) (developed by [DFRobot](https://www.dfrobot.com/) from Shanghai). Place a file of [SourceCodePro.ttf](SourceCodePro.ttf) into the same folder. Install this font for all users of your machine (right click > 'Install for all users'). The message at the start regarding the missing font should then dissapear. You can start uPyCraft.exe directly.
+
+Select the correct port on 'Tools > Serial >' and hit the connect button in the right column. In the lower part the REPL should appear and you can start to communicate with your micropython device. Ask for `help()` !
+
 ## Prime numbers to 10000
 
 This took 11375 ms on an esp32 with 160 MHz:
