@@ -4,3 +4,8 @@ sudo: false
 git:
   depth: false
   quiet: true
+
+script:
+  - hello-world.py
+  - prime-numbers.py
+  - prime1000.py
