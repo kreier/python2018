@@ -1,4 +1,5 @@
 # Python 2018
+[![Build Status](https://travis-ci.com/kreier/python2018.svg?branch=master)](https://travis-ci.com/kreier/python2018)
 
 My first steps in python, starting with the workshop at AIS on *November 16, 2018*.
 
