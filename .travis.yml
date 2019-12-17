@@ -6,6 +6,6 @@ git:
   quiet: true
 
 script:
-  - python /basics/hello-world.py
-  - python /basics/prime-numbers.py
-  - python prime1000.py
+  - python basics/hello-world.py
+  - python basics/prime-numbers.py
+  - python basics/prime1000.py
