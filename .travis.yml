@@ -12,3 +12,4 @@ script:
   - python basics/hello-world.py
   - python basics/prime-numbers.py
   - python basics/prime1000.py
+  - python basics/mandelbrot.py
