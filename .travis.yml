@@ -1,9 +1,9 @@
 dist: xenial
 language: python
 python:
-  - "3.7"
-cache: 
-  pip: true
+  - "3.8"
+#cache: 
+#  pip: true
 git:
   depth: false
   quiet: true
