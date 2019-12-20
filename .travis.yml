@@ -1,6 +1,9 @@
+dist: xenial
 language: python
-sudo: false
-
+python:
+  - "3.8"
+cache: 
+  pip: true
 git:
   depth: false
   quiet: true
