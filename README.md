@@ -2,10 +2,13 @@
 [![MIT license](https://img.shields.io/github/license/kreier/python2018?color=brightgreen)](http://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/kreier/python2018.svg?branch=master)](https://travis-ci.com/kreier/python2018)
 
+Just a documentation of my first steps in python from 2018 on. It started with the workshop during the *BeTogetherConverence* at AIS on *November 16, 2018*.
 
-My first steps in python, starting with the workshop at AIS on *November 16, 2018*.
+## January 2020
 
-Hello World! and calculating prime numbers work well.
+<img src="https://github.com/kreier/T400/blob/master/pic/T400lite.jpg" align="right" width="25%">
+
+The first [T400](https://github.com/kreier/T400) robot is running with Micropython!
 
 ## December 2019
 
@@ -29,8 +32,13 @@ Simple project, located in [micropython/webserver](micropython/webserver) and co
 
 ![webserver](micropython/webserver/20191216.gif)
 
-## January 2020
+## December 2018
 
-The first [T400](https://github.com/kreier/T400) robot is running with Micropython!
+No need to install software, you can use python in a Jupyter notebook with graphical output. Here I used pyplot in [this basic example](./basics/first.ipynb).
+
+## November 2018
+
+My first [Hello World!](https://github.com/kreier/python2018/blob/master/basics/hello-world.py) and [calculating prime numbers](https://github.com/kreier/python2018/blob/master/basics/prime-numbers.py) worked well.
+
 
 [![HitCount](http://hits.dwyl.io/kreier/python2018.svg)](http://hits.dwyl.io/kreier/python2018)
