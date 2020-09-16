@@ -6,7 +6,7 @@ Just a documentation of my first steps in python from 2018 on. It started with t
 
 ## January 2020
 
-<img src="https://github.com/kreier/T400/blob/master/pic/T400lite.jpg" align="right" width="25%">
+<img src="https://github.com/kreier/T400/blob/master/pic/T400lite.jpg" align="right" width="30%">
 
 The first [T400](https://github.com/kreier/T400) robot is running with Micropython!
 
@@ -34,7 +34,7 @@ Simple project, located in [micropython/webserver](micropython/webserver) and co
 
 ## December 2018
 
-No need to install software, you can use python in a Jupyter notebook with graphical output. Here I used pyplot in [this basic example](./basics/first.ipynb).
+No need to install software, you can use python in a Jupyter notebook with graphical output. Here I used pyplot in [this basic example](https://github.com/kreier/python2018/blob/master/basics/first.ipynb).
 
 ## November 2018
 
