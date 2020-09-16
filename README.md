@@ -6,7 +6,7 @@ Just a documentation of my first steps in python from 2018 on. It started with t
 
 ## January 2020
 
-<img src="https://github.com/kreier/T400/blob/master/pic/T400lite.jpg" align="right" width="30%">
+<img src="https://github.com/kreier/T400/raw/master/pic/T400lite.jpg" align="right" width="30%">
 
 The first [T400](https://github.com/kreier/T400) robot is running with Micropython!
 
