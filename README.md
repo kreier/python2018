@@ -6,7 +6,7 @@ Just a documentation of my first steps in python from 2018 on. It started with t
 
 ## January 2020
 
-<img src="https://github.com/kreier/T400/raw/master/pic/T400lite.jpg" align="right" width="30%">
+<img src="https://github.com/kreier/T400/raw/main/docs/T400lite.jpg" align="right" width="30%">
 
 The first [T400](https://github.com/kreier/T400) robot is running with Micropython!
 
@@ -39,6 +39,3 @@ No need to install software, you can use python in a Jupyter notebook with graph
 ## November 2018
 
 My first [Hello World!](https://github.com/kreier/python2018/blob/master/basics/hello-world.py) and [calculating prime numbers](https://github.com/kreier/python2018/blob/master/basics/prime-numbers.py) worked well.
-
-
-[![HitCount](http://hits.dwyl.io/kreier/python2018.svg)](http://hits.dwyl.io/kreier/python2018)
