@@ -15,7 +15,7 @@ backports.weakref==1.0.post1
 beautifulsoup4==4.8.0
 bitarray==1.0.1
 bkcharts==0.2
-bleach==3.1.4
+bleach==3.3.0
 bokeh==1.3.4
 boto==2.49.0
 Bottleneck==1.2.1
@@ -36,7 +36,7 @@ dash-core-components==1.6.0
 dash-html-components==1.0.2
 dash-renderer==1.2.2
 dash-table==4.5.1
-dask==2.5.2
+dask==2021.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 distributed==2.5.2
@@ -67,7 +67,7 @@ isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 joblib==0.13.2
 json5==0.8.5
 jsonschema==3.0.2
@@ -87,7 +87,7 @@ nbformat==4.4.0
 networkx==2.3
 numba==0.45.1
 numexpr==2.7.0
-numpy==1.16.5
+numpy==1.21
 numpydoc==0.9.1
 packaging==19.2
 pandas==0.25.1
