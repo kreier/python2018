@@ -2,6 +2,11 @@
 # https://salsa.debian.org/benchmarksgame-team/benchmarksgame/
 #
 # contributed by Joerg Baumann
+# copied from https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/mandelbrot-python3-7.html
+# inspired by https://youtu.be/i_O8r1YQJVo?t=185 from Alex Ziskind
+# His M1 Max needed 32 seconds (8P cores, 10 total)
+# My M1 MacBook Pro needed 62 seconds (4P cores, 8 total):
+# python3 mandel.py 16000 > /dev/null  474.11s user 3.16s system 772% cpu 1:01.75 total
 
 from contextlib import closing
 from itertools import islice
