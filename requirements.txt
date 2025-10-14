@@ -85,7 +85,7 @@ nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 numba==0.45.1
-numexpr==2.7.0
+numexpr==2.8.5
 numpy==1.22.0
 numpydoc==0.9.1
 packaging==19.2
