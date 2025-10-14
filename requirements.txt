@@ -33,7 +33,7 @@ cycler==0.10.0
 Cython==0.29.13
 dash==1.7.0
 dash-core-components==2.0.0
-dash-html-components==1.0.2
+dash-html-components==2.0.0
 dash-renderer==1.2.2
 dash-table==4.5.1
 decorator==4.4.0
