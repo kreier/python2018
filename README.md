@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/github/license/kreier/python2018?color=brightgreen)](http://opensource.org/licenses/MIT)
 ![GitHub Release](https://img.shields.io/github/v/release/kreier/python2018)
-[![pages-build-deployment](https://github.com/kreier/python2018/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/python2018/actions/workflows/pages/pages-build-deployment)
+[![Jekyll with GitHub Pages](https://github.com/kreier/python2018/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/kreier/python2018/actions/workflows/jekyll-gh-pages.yml)
 
 Just a documentation of my first steps in python from 2018 on. It started with the workshop during the *BeTogetherConverence* at AIS on *November 16, 2018*.
 
