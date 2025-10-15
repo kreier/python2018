@@ -31,7 +31,7 @@ contextlib2==0.6.0
 cryptography==44.0.1
 cycler==0.10.0
 Cython==0.29.13
-dash==1.7.0
+dash==2.15.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-renderer==1.2.2
