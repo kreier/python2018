@@ -43,7 +43,7 @@ docutils==0.15.2
 ecdsa==0.14.1
 entrypoints==0.3
 enum34==1.1.6
-esptool==2.8
+esptool==5.1.0
 et-xmlfile==1.0.1
 fastcache==1.1.0
 filelock==3.0.12
@@ -99,3 +99,4 @@ qtconsole==4.5.5
 QtPy==1.9.0
 zict==1.0.0
 zipp==3.19.1
+
