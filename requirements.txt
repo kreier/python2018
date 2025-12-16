@@ -46,7 +46,7 @@ enum34==1.1.6
 esptool==5.1.0
 et-xmlfile==1.0.1
 fastcache==1.1.0
-filelock==3.0.12
+filelock==3.20.1
 Flask==2.3.2
 Flask-Compress==1.4.0
 fsspec==0.5.2
