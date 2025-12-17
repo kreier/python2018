@@ -3,7 +3,7 @@ import csv
 
 # Replace with your GitHub username and personal access token
 USERNAME = "kreier"
-TOKEN = "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"
+TOKEN = "YOUR_TOKEN_HERE"
 
 # Base URL for GitHub API
 BASE_URL = f"https://api.github.com/users/{USERNAME}/repos"
