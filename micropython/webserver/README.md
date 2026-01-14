@@ -1,4 +1,4 @@
-# Webserver in micropython on esp32 and eso8266
+# Webserver in micropython on esp32 and esp8266
 
 A simple webserver is well described by [randomnerdtutorials](https://randomnerdtutorials.com/) Rui and Sara Santos from Portugal. Please read their tutorial!
 

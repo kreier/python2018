@@ -51,9 +51,21 @@ it took only 7782 ms to finish the calculation.
 
 ### Timings
 
-| Frequency |  ESP8266 |   ESP32  | Raspberry Pi 1 | Raspberry Pi 4 |
-|:---------:|:--------:|:--------:|:--------------:|:--------------:|
-|    40 MHz |     -    | 44427 ms |                |                |
-|    80 MHz | 32807 ms | 23323 ms |                |                |
-|   160 MHz | 16113 ms | 11375 ms |                |                |
-|   240 MHz |     -    |  7783 ms |                |                |
+| Frequency |  ESP8266 |   ESP32  |
+|:---------:|:--------:|:--------:|
+|    40 MHz |     -    | 44427 ms |
+|    80 MHz | 32807 ms | 23323 ms |
+|   160 MHz | 16113 ms | 11375 ms |
+|   240 MHz |     -    |  7783 ms |
+
+More results on [kreier.github.io/prime](https://kreier.github.io/prime/) and [https://github.com/kreier/prime](https://github.com/kreier/prime).
+
+Example with different code in MicroPython and Circuitpython:
+
+|  up to    | primes |       MHz |      80 |     240 |     125 |      240 |      160 |      240 |  3200 |
+|----------:|-------:|-----------|--------:|--------:|--------:|---------:|---------:|---------:|------:|
+|           |    #   | micro:bit | esp8266 |  ESP32  |  rp2040 | ESP32 S2 | ESP32 C3 | ESP32 S3 |   M1  |
+|     1,000 |    168 |     0.694 |   0.182 |   0.036 |   0.043 |    0.139 |    0.027 |    0.016 | 0.000 |
+|    10,000 |  1.229 |    13.517 |   3.360 |   0.626 |   0.797 |    0.769 |    0.487 |    0.259 | 0.008 |
+|   100,000 |  9.592 |   318.459 |  71.008 |  12.766 |  17.028 |   10.278 |   10.037 |    5.607 | 0.111 |
+| 1,000,000 | 78.498 |           | 599.490 | 294.419 | 396.301 |  201.873 |  232.850 |  130.837 | 2.599 |
