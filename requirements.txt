@@ -38,7 +38,7 @@ dash-renderer==1.2.2
 dash-table==4.5.1
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2021.10.0
+distributed==2026.1.1
 docutils==0.15.2
 ecdsa==0.14.1
 entrypoints==0.3
