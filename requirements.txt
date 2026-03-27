@@ -40,7 +40,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 distributed==2026.1.1
 docutils==0.15.2
-ecdsa==0.14.1
+ecdsa==0.19.2
 entrypoints==0.3
 enum34==1.1.6
 esptool==5.1.0
